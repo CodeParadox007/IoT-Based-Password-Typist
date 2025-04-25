@@ -10,8 +10,8 @@ Computer Science & Engineering Discipline, Khulna University
 Khulna University,  Khulna, Bangladesh.  
 
 Project by,
-Sheyum Hossain,  Mridul Paul,  Fatima Rahman
-Electronics and Communication Engineering Discipline,  
+Sheyum Hossain,  Mridul Paul,  Fatima Rahman  
+Electronics and Communication Engineering Discipline,   
 Khulan University, Khulna  
 
 # Objectives:  

@@ -1,6 +1,7 @@
 # IoT-Based-Password-Typist (Unlocking PC remotely)  
 
-This project is under the Course No ECE 4102 and Title : Industrial and power electronics Sessional
+This project is under the Course No : CSE 3152  
+Course Title : Microprocessor & Embedded Systems Sessionall  
 Date: 10-04-2023  
 
 The project is Supervised by  
